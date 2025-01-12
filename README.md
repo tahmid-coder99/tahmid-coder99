@@ -1,5 +1,5 @@
 
-![web developer ](https://img.freepik.com/free-vector/vector-banner-website-development_107791-3339.jpg?semt=ais_hybrid)
+![web developer ]([https://img.freepik.com/free-vector/vector-banner-website-development_107791-3339.jpg?semt=ais_hybrid](https://media.licdn.com/dms/image/v2/D4D12AQGXjzbAJKAgOw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1680499811064?e=2147483647&v=beta&t=nWtKmf583rMcZAKVwbVRHKsEc4y_DswiahikHx7QAW4))
 
 ### Hi there 👋, my name is tahmid
 #### web developer 
@@ -10,7 +10,6 @@ Skills: REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on github 
-- 🤔 I’m looking for help with web development  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tahmid-coder99)  
