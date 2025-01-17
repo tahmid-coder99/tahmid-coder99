@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tahmid-coder99&show_icons=true&count_private=true)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=tahmid-coder99)  
 
 ![web developer ](https://media.licdn.com/dms/image/v2/D4D12AQGXjzbAJKAgOw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1680499811064?e=2147483647&v=beta&t=nWtKmf583rMcZAKVwbVRHKsEc4y_DswiahikHx7QAW4)
 
@@ -19,10 +19,10 @@ Skills: REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmid-coder99)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tahmid-coder99&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/tahmid-coder99/contributions?format=svg&private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/tahmid-coder99)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=tahmid-coder99)  
 
